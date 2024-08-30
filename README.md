@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h2 align="left">Hola soy Javier Rodriguez developer Frontend</h2>
 
 ###
@@ -11,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
