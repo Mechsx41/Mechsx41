@@ -32,14 +32,6 @@
 
 <div align="center">
   <h1>Contactame</h1>
-  <a target="_blank" href="https://www.instagram.com/devjavierb/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1000px-Instagram_logo_2022.svg.png" height="35" alt="Instagram" />
-  </a>
-   <img width="12" />
- <a href="https://x.com/JavierR82559771">
-   <img src="https://img.freepik.com/vector-gratis/nuevo-diseno-icono-x-logotipo-twitter-2023_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1724976000&semt=ais_hybrid" height="35" alt="X"  />
- </a> 
-   <img width="12" />
   <a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" height="35" alt="LinkendIn"  /> 
   <a/>
